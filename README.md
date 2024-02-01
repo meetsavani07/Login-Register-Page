@@ -1,7 +1,22 @@
-# Login-Register-Page
-This Login-Register Page Make on HTML, CSS, JAVASCRIPT. 
+# Slider Sign-in/Sign-up Page
 
-# Final Result Image 
+A responsive and user-friendly sign-in/sign-up page with a slider for easy navigation between the two forms.
+
+## Features
+
+- Responsive design for seamless user experience on all devices
+- User-friendly slider for easy navigation between sign-in and sign-up forms
+- Customizable form fields for personalization
+- Secure password input field with password strength validation
+- Cross-browser compatibility and accessibility support
+
+## Usage
+
+1. Clone the repository:
+
+``` bash :- https://github.com/meetsavani07/Slider-Sign-in-up-page.git ```
+
+Final Result Image
 
 # Sign In 
 ![Screenshot (273)](https://github.com/meetsavani07/Login-Register-Page/assets/146066645/4425fa67-8340-40e1-97a9-1d08831eb1dc)
