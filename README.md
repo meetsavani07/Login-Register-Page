@@ -16,7 +16,7 @@ A responsive and user-friendly sign-in/sign-up page with a slider for easy navig
 
 ``` bash :- https://github.com/meetsavani07/Login-Register-Page.git```
 
-Final Result Image
+##Final Result Image
 
 # Sign In 
 ![Screenshot (273)](https://github.com/meetsavani07/Login-Register-Page/assets/146066645/4425fa67-8340-40e1-97a9-1d08831eb1dc)
